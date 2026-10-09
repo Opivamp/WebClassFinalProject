@@ -44,7 +44,7 @@ const HAIRLINE = '1px solid rgba(12, 12, 12, 0.15)';
 export default function ServicesSection() {
   return (
     <section
-      id="service"
+      id="price"
       className="relative w-full rounded-t-[40px] sm:rounded-t-[50px] md:rounded-t-[60px] px-5 sm:px-8 md:px-10 py-20 sm:py-24 md:py-32"
       style={{ background: '#FFFFFF', overflowX: 'clip' }}
     >
