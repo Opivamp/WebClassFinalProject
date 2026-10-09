@@ -80,7 +80,7 @@ export default function ContactSection() {
         className="mt-20 sm:mt-24 md:mt-28 pt-6 sm:pt-8 flex flex-col sm:flex-row items-center justify-between gap-3 text-[#D7E2EA]/50 font-light uppercase tracking-widest text-xs sm:text-sm"
         style={{ borderTop: HAIRLINE }}
       >
-        <span>&copy; {new Date().getFullYear()} Jack</span>
+        <span>&copy; {new Date().getFullYear()} Opivamp</span>
         <span>3D Creator</span>
       </FadeIn>
     </section>

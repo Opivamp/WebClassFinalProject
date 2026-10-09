@@ -43,9 +43,9 @@ export default function HeroSection() {
           as="h1"
           delay={0.15}
           y={40}
-          className="hero-heading w-full font-black uppercase tracking-tight leading-none whitespace-nowrap text-center text-[14vw] sm:text-[15vw] md:text-[16vw] lg:text-[17.5vw] mt-6 sm:mt-4 md:-mt-5"
+          className="hero-heading w-full font-black uppercase tracking-tight leading-none whitespace-nowrap text-center text-[10.8vw] sm:text-[11.8vw] md:text-[12.8vw] lg:text-[13.8vw] mt-6 sm:mt-4 md:-mt-5"
         >
-          Hi, i&apos;m jack
+          Hi, i&apos;m opivamp
         </FadeIn>
       </div>
 
@@ -78,7 +78,7 @@ export default function HeroSection() {
           >
             <img
               src={PORTRAIT_SRC}
-              alt="Jack, 3D creator"
+              alt="Opivamp, 3D creator"
               className="w-full h-auto select-none pointer-events-none"
               draggable={false}
             />
